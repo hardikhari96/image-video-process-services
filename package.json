@@ -1,0 +1,15 @@
+{
+  "name": "image_video_process_micro_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harikrushna Patel",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "sharp": "^0.30.6"
+  }
+}
